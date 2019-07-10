@@ -1,5 +1,5 @@
 {
-    "name": "star/rpc-clients",
+    "name": "stars/rpc-clients",
     "type": "library",
     "keywords": [
         "php",
@@ -10,6 +10,7 @@
     "description": "microservice framework base on swoole",
     "license": "Apache-2.0",
     "require": {
+        "php": "^7.2",
         "swoft/framework": "~2.0.0",
         "swoft/connection-pool": "~2.0.0",
         "swoft/rpc": "~2.0.0"
